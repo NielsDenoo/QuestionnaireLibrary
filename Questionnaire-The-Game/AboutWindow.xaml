@@ -24,7 +24,7 @@
         <TextBlock  Grid.Row="2" TextWrapping="Wrap" FontSize="30" TextAlignment="Center" Margin="0,127,0,82" > description: This is a questionnaire which is created as a task for the subject object oriented programming</TextBlock>
         <TextBlock Grid.Row="2" Margin="294,226,294,33" FontSize="30">
         <Run Text="Link to"/>
-        <Hyperlink FontSize="30" RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://github.com/NielsDenoo/FractionsCalculator" ToolTip="https://github.com/NielsDenoo/FractionsCalculator">
+        <Hyperlink FontSize="30" RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://github.com/NielsDenoo/QuestionnaireLibrary" ToolTip="https://github.com/NielsDenoo/QuestionnaireLibrary">
             Github
         </Hyperlink>
         </TextBlock>
