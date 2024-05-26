@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\TriviaApiLibrary\bin\Debug\net6.0\TriviaApiLibrary.deps.json
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\TriviaApiLibrary\bin\Debug\net6.0\TriviaApiLibrary.dll
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\TriviaApiLibrary\bin\Debug\net6.0\TriviaApiLibrary.pdb
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\TriviaApiLibrary\obj\Debug\net6.0\TriviaApiLibrary.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\TriviaApiLibrary\obj\Debug\net6.0\TriviaApiLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\TriviaApiLibrary\obj\Debug\net6.0\TriviaApiLibrary.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\TriviaApiLibrary\obj\Debug\net6.0\TriviaApiLibrary.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\TriviaApiLibrary\obj\Debug\net6.0\TriviaApiLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\TriviaApiLibrary\obj\Debug\net6.0\TriviaApiLibrary.dll
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\TriviaApiLibrary\obj\Debug\net6.0\refint\TriviaApiLibrary.dll
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\TriviaApiLibrary\obj\Debug\net6.0\TriviaApiLibrary.pdb
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\TriviaApiLibrary\obj\Debug\net6.0\ref\TriviaApiLibrary.dll

@@ -1,0 +1,35 @@
+﻿<Window x:Class="Questionnaire_The_Game.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Questionnaire_The_Game"
+        mc:Ignorable="d"
+        Title="AboutWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+
+        <Button x:Name="Back" Grid.Row="1" Grid.Column="0" FontSize="30" Background="DarkBlue" Grid.ColumnSpan="7" Foreground="White" Click="GoBack" >Back</Button>
+
+        <TextBlock Grid.Row="0" Text="Questionnair" Grid.ColumnSpan="7" TextAlignment="Center" FontSize="30" Background="Black" Foreground="White"/>
+
+        <TextBlock  Grid.Row="2" Grid.ColumnSpan="7" TextWrapping="Wrap" FontSize="30" TextAlignment="Center" Margin="0,56,0,56">author: Niels Denoo</TextBlock>
+        <TextBlock  Grid.Row="2" Grid.ColumnSpan="7" TextWrapping="Wrap" FontSize="30" TextAlignment="Center" > year: 2024</TextBlock>
+        <TextBlock  Grid.Row="2" TextWrapping="Wrap" FontSize="30" TextAlignment="Center" Margin="0,127,0,82" > description: This is a questionnaire which is created as a task for the subject object oriented programming</TextBlock>
+        <TextBlock Grid.Row="2" Margin="294,226,294,33" FontSize="30">
+        <Run Text="Link to"/>
+        <Hyperlink FontSize="30" RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://github.com/NielsDenoo/FractionsCalculator" ToolTip="https://github.com/NielsDenoo/FractionsCalculator">
+            Github
+        </Hyperlink>
+        </TextBlock>
+
+        <TextBlock Grid.Row="4" Text="Application developed by Niels Denoo - Student @ VIVES University College" Grid.ColumnSpan="7" TextAlignment="Center" FontSize="20" Background="black" Foreground="White"/>
+
+    </Grid>
+</Window>

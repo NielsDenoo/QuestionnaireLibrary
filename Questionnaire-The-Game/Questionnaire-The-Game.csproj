@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Questionnaire_The_Game</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuestionnaireLibrary\QuestionnaireLibrary.csproj" />
+    <ProjectReference Include="..\ScoreBoardLibrary\ScoreBoardLibrary.csproj" />
+    <ProjectReference Include="..\TriviaApiLibrary\TriviaApiLibrary.csproj" />
+  </ItemGroup>
+
+</Project>

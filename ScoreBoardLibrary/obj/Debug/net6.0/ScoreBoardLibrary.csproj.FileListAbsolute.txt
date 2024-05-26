@@ -1,0 +1,11 @@
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\ScoreBoardLibrary\bin\Debug\net6.0\ScoreBoardLibrary.deps.json
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\ScoreBoardLibrary\bin\Debug\net6.0\ScoreBoardLibrary.dll
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\ScoreBoardLibrary\bin\Debug\net6.0\ScoreBoardLibrary.pdb
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\ScoreBoardLibrary\obj\Debug\net6.0\ScoreBoardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\ScoreBoardLibrary\obj\Debug\net6.0\ScoreBoardLibrary.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\ScoreBoardLibrary\obj\Debug\net6.0\ScoreBoardLibrary.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\ScoreBoardLibrary\obj\Debug\net6.0\ScoreBoardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\ScoreBoardLibrary\obj\Debug\net6.0\ScoreBoardLibrary.dll
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\ScoreBoardLibrary\obj\Debug\net6.0\refint\ScoreBoardLibrary.dll
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\ScoreBoardLibrary\obj\Debug\net6.0\ScoreBoardLibrary.pdb
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\ScoreBoardLibrary\obj\Debug\net6.0\ref\ScoreBoardLibrary.dll

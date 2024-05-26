@@ -1,0 +1,11 @@
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\QuestionnaireLibrary\bin\Debug\net6.0\QuestionnaireLibrary.deps.json
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\QuestionnaireLibrary\bin\Debug\net6.0\QuestionnaireLibrary.dll
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\QuestionnaireLibrary\bin\Debug\net6.0\QuestionnaireLibrary.pdb
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\QuestionnaireLibrary\obj\Debug\net6.0\QuestionnaireLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\QuestionnaireLibrary\obj\Debug\net6.0\QuestionnaireLibrary.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\QuestionnaireLibrary\obj\Debug\net6.0\QuestionnaireLibrary.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\QuestionnaireLibrary\obj\Debug\net6.0\QuestionnaireLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\QuestionnaireLibrary\obj\Debug\net6.0\QuestionnaireLibrary.dll
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\QuestionnaireLibrary\obj\Debug\net6.0\refint\QuestionnaireLibrary.dll
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\QuestionnaireLibrary\obj\Debug\net6.0\QuestionnaireLibrary.pdb
+C:\Users\Gebruiker\Documents\Hoger onderwijs\2de semester\object orientated programming\Evaluatie 4\QuestionnaireLibrary\QuestionnaireLibrary\obj\Debug\net6.0\ref\QuestionnaireLibrary.dll
